@@ -1,5 +1,6 @@
 :root {
-    --primary-color:#1c8591;
+    /* --primary-color:#1c8591; */
+    background-color: #212627 !important;
   }
   
   * {
@@ -9,9 +10,9 @@
     }
   
   body {
-      color: #1c8591;
+      color: white;
       font-family: Helvetica, Arial, sans-serif;
-      background-color: rgb(229, 232, 238);
+      background-color: rgb(18, 33, 62);
     }
   
   /* apply styles to <header> */
@@ -107,7 +108,7 @@
 .section-title {
     font-size: 35px;
     font-family:cursive;
-    color: #024e76;
+    color: white;
     margin: 0 0 0 80px;
     width: 50%;
   }
